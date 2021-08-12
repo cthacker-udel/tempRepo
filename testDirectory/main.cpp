@@ -16,6 +16,8 @@ void printArr(int *newArr,int len){
 	}
 	cout << endl;
 
+	editing code
+
 }
 
 // newest version --- finalized complete binary search using array splitting and indexing
